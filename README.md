@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-"# CSD-340" 
 =======
 # csd430
 CSD-430 Repository for Assignments
