@@ -1,0 +1,48 @@
+01-Jun-2025 15:01:41.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.41
+01-Jun-2025 15:01:41.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 8 2025 12:44:02 UTC
+01-Jun-2025 15:01:41.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.41.0
+01-Jun-2025 15:01:41.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+01-Jun-2025 15:01:41.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jun-2025 15:01:41.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jun-2025 15:01:41.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+01-Jun-2025 15:01:41.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+01-Jun-2025 15:01:41.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Jun-2025 15:01:41.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41
+01-Jun-2025 15:01:41.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\conf\logging.properties
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+01-Jun-2025 15:01:41.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41
+01-Jun-2025 15:01:41.786 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\temp
+01-Jun-2025 15:01:41.804 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+01-Jun-2025 15:01:41.816 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+01-Jun-2025 15:01:42.452 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jun-2025 15:01:42.524 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1161] milliseconds
+01-Jun-2025 15:01:42.617 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jun-2025 15:01:42.617 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.41]
+01-Jun-2025 15:01:42.633 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\docs]
+01-Jun-2025 15:01:43.166 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\docs] has finished in [533] ms
+01-Jun-2025 15:01:43.166 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\examples]
+01-Jun-2025 15:01:44.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\examples] has finished in [965] ms
+01-Jun-2025 15:01:44.131 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\host-manager]
+01-Jun-2025 15:01:44.198 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\host-manager] has finished in [67] ms
+01-Jun-2025 15:01:44.198 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\manager]
+01-Jun-2025 15:01:44.252 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\manager] has finished in [54] ms
+01-Jun-2025 15:01:44.252 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\ROOT]
+01-Jun-2025 15:01:44.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\ROOT] has finished in [48] ms
+01-Jun-2025 15:01:44.302 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jun-2025 15:01:44.353 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1827] milliseconds
+01-Jun-2025 15:07:55.015 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\myapps]
+01-Jun-2025 15:07:55.156 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\myapps] has finished in [141] ms
+01-Jun-2025 15:08:05.676 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/myapps]
+01-Jun-2025 15:08:05.848 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\myapp]
+01-Jun-2025 15:08:05.969 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\amitr\Downloads\apache-tomcat-10.1.41-windows-x64\apache-tomcat-10.1.41\webapps\myapp] has finished in [121] ms
